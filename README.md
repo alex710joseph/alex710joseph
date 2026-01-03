@@ -19,7 +19,7 @@
 ---
 
 ### 📊 Coding Progress
-<img src="https://leetcode-stats-rocket.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+<img src="![](https://leetcard.jacoblin.cool/jacoblincool?theme=dark)" alt="LeetCode Stats" />
 
 ---
 
