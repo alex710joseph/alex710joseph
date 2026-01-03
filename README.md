@@ -76,5 +76,5 @@ Docker · Kubernetes · Terraform · Ansible
 ## 📫 Connect with Me
 
 - **LinkedIn:** https://linkedin.com/in/alex710  
-- **Email:** joseph.ale@northeastern.edu  
+- **Email:** alex710joseph@gmail.com
 - **Location:** Boston, MA
