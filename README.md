@@ -35,7 +35,7 @@ Docker · Kubernetes · Terraform · Ansible
 ---
 
 ## Research
-*![Epileptic Seizure Prediction Using EEG Images](https://ieeexplore.ieee.org/document/9182327)* — IEEE ICCSP 2020  
+*[Epileptic Seizure Prediction Using EEG Images](https://ieeexplore.ieee.org/document/9182327)* — IEEE ICCSP 2020  
 Achieved **94.98% prediction accuracy** of Epileptic seizures using a fine-tuned **ResNet50** model
 
 ---
