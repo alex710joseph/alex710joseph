@@ -34,6 +34,12 @@ Docker · Kubernetes · Terraform · Ansible
 
 ---
 
+## Research
+*Epileptic Seizure Prediction Using EEG Images* https://ieeexplore.ieee.org/document/9182327 — IEEE ICCSP 2020  
+Achieved **94.98% prediction accuracy** of Epileptic seizures using a fine-tuned **ResNet50** model
+
+---
+
 ## 💼 Professional Experience
 
 ### Senior Software Engineer — Siemens Healthineers  
@@ -62,16 +68,12 @@ and controlled access to data model extensions.
 
 ---
 
-## 🎓 Education & Research
+## 🎓 Education
 
 - **MS in Computer Science**, Northeastern University, Boston
   *Expected May 2027*
 
 - **B.Tech in Electronics and Communication Engineering**, NIT Calicut
-
-- **Research Publication**  
-  *Epileptic Seizure Prediction Using EEG Images* — IEEE ICCSP 2020  
-  Achieved **94.98% prediction accuracy** using a fine-tuned **ResNet50** model
 
 ---
 
