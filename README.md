@@ -19,7 +19,7 @@
 ---
 
 ### 📊 Coding Progress
-<img src="![](https://leetcard.jacoblin.cool/alex710joseph?theme=dark)" alt="LeetCode Stats" />
+<img src="![Leetcode](https://leetcard.jacoblin.cool/alex710joseph?theme=dark)" alt="LeetCode Stats" />
 
 ---
 
