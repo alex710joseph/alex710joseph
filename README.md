@@ -39,18 +39,26 @@ Docker · Kubernetes · Terraform · Ansible
 ### Senior Software Engineer — Siemens Healthineers  
 *June 2023 – June 2025*
 
-- Improved Federated Learning platform UI latency by **60%** through bulk pre-fetching and database indexing  
-- Automated deployments across distributed edge platforms using **Ansible** and **RPM**  
-- Integrated **Azure Arc** with Log Analytics for centralized Kubernetes monitoring
+-  Developed Ansible-based installation scripts packaged as RPM, automating deployment across the distributed
+edges of the Federated Learning Platform.
+-  Implemented Azure Arc integration with Log Analytics for remote Kubernetes monitoring, enabling centralized
+log collection and alerting across edge deployments.
+-  Optimized backend Django REST endpoints through bulk pre-fetching, caching and DB indexing, improving
+the Federated Learning platform UI latency by 60%
+-  Freed 15-20% of edge disk space by designing automated cleanup CronJob to purge temporary training/inference
+directories every 24 hours, ensuring smooth job execution.
 
 ---
 
 ### Software Engineer — Oracle Financial Services  
 *September 2020 – May 2023*
 
-- Led development of a microservice-based **Catalog Extension** for Data Warehouse models  
-- Migrated legacy monolithic calculation engines to **Spring Boot** microservices  
-- Automated schema migrations and release workflows using **Liquibase**
+- Led development of a microservice-based Catalog Extension feature enabling Analysts to extend Fact and Dimension
+tables of the Data Warehouse model.
+- Designed Role-Based Access Control (RBAC) for the Catalog Extension feature, ensuring proper governance
+and controlled access to data model extensions.
+- Automated database schema migration and change management using Liquibase, streamlining deployment.
+- Migrated legacy monolithic Exchange Rate calculation code base to microservice architecture using Spring Boot.
 
 ---
 
