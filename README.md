@@ -1,7 +1,8 @@
-# Hi, I'm Alex Joseph 👋
+# Hello, I'm Alex Joseph 👋
 
-**MS in Computer Science Candidate at Northeastern University**  
+**currently pursuing MS in Computer Science at Northeastern University, Boston**  
 **Former Senior Software Engineer at Siemens Healthineers**
+**Former SDE-2 at Oracle Financial Services Software**
 
 ---
 
@@ -55,7 +56,7 @@ Docker · Kubernetes · Terraform · Ansible
 
 ## 🎓 Education & Research
 
-- **MS in Computer Science**, Northeastern University  
+- **MS in Computer Science**, Northeastern University, Boston
   *Expected May 2027*
 
 - **B.Tech in Electronics and Communication Engineering**, NIT Calicut
