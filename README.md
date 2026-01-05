@@ -81,6 +81,10 @@ and controlled access to data model extensions.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alex710joseph)
 
+## Hobbies
+Creative coding:
+<iframe src="https://editor.p5js.org/alex710/full/1MzyeLP-f"></iframe>
+
 ---
 
 ## 📫 Connect with Me
