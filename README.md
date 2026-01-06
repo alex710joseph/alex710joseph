@@ -83,7 +83,8 @@ and controlled access to data model extensions.
 
 ## Hobbies
 Creative coding:
-1. Racing Sim - https://alex710joseph.github.io/racing-sim/
+1. Neuroevolved Flappy Birds - https://alex710joseph.github.io/neuroevolved-flappy-birds/
+2. Racing Sim - https://alex710joseph.github.io/racing-sim/
 
 ---
 
