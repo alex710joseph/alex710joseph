@@ -1,6 +1,6 @@
 # Hello, I'm Alex Joseph 👋
 
-**currently pursuing MS in Computer Science at Northeastern University, Boston**  
+**Currently pursuing MS in Computer Science at Northeastern University, Boston**  
 **Former Senior Software Engineer at Siemens Healthineers**
 **Former SDE-2 at Oracle Financial Services Software**
 
@@ -77,7 +77,7 @@ and controlled access to data model extensions.
 
 ---
 
-## 📊 Coding Progress
+## 📊 Competitive Coding Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alex710joseph)
 
